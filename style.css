@@ -10,12 +10,12 @@
 
 .search {
     background: #f7c750;
-    size: 100px;
     position:absolute; left:400px; top:510px;
 }
 
 .search form {
     background: #A3D0C3;
+    size: 100px;
 }
 
 .search input, .search button{
