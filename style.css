@@ -88,3 +88,8 @@
     height: 100px;
 }
 
+.recommend input{
+    border: none;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
