@@ -30,7 +30,8 @@
 .bar button{
     height: 35px;
     width: 35px;
+    top: 6px;
     border: none;
     outline: none;
-    cursor: pointer
+    cursor: pointer;
 }
