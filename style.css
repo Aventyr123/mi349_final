@@ -26,3 +26,11 @@
     border: 1px solid #ccc;
     padding-left: 20px;
 }
+
+.button1{
+    height: 35px;
+    width: 35px;
+    border: none;
+    outline: none;
+    cursor: pointer
+}
