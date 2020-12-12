@@ -84,7 +84,7 @@
     border-color: black;
 }
 #pic2 {
-    left: 700px;
+    float: right;
     width: 600px;
     height: 200px;
 }
@@ -92,7 +92,8 @@
 .recommend input{
     border: none;
     outline: none;
-    top:100px;
+    top: 100px;
     font-family: 'Times New Roman', Times, serif;
+    font:bolder;
     font-size: 30px;
 }
