@@ -14,17 +14,12 @@
     position:absolute; left:100px; top:510px;
 }
 
-.search form {
-    background: #A3D0C3;
-}
-
 .search input{
     flex: 4;
     height: 30px;
     outline: none;
     border: 1px solid red;
     box-sizing: border-box;
-    padding-left: 10px;
 }
 
 .search button{
