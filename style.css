@@ -31,6 +31,7 @@
     height: 35px;
     width: 35px;
     top: 6px;
+    position: absolute;
     border: none;
     outline: none;
     cursor: pointer;
