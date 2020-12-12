@@ -34,6 +34,6 @@
     left: 350px;
     position: absolute;
     border: none;
+    outline: aqua;
     cursor: pointer;
-    color: aqua;
 }
