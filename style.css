@@ -1,5 +1,5 @@
 #pic {
-    width: fit-content;
+    width: 3000px;
     height: 500px;
 }
 
@@ -34,6 +34,10 @@
     left: 350px;
     position: absolute;
     border: none;
-    outline: aqua;
+    outline: none;
     cursor: pointer;
+}
+
+.button1 {
+
 }
