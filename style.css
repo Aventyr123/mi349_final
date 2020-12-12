@@ -12,11 +12,13 @@
     background: #f7c750;
     position:absolute; left:400px; top:510px;
     width: 300px;
-    height: 100px;
+    height: 500px;
 }
 
 .search form {
     background: #A3D0C3;
+    width: 300px;
+    height: 500px;
 }
 
 .search input, .search button{
@@ -26,6 +28,8 @@
 .search button{
     top: 0px;
     right: 0px;
+    width: 300px;
+    height: 100px;
 }
 
 .search button:before{
