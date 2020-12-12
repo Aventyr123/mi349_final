@@ -10,6 +10,7 @@
 
 .search {
     background: #f7c750;
+    position:absolute; left:0; top:510px;
 }
 
 .search form {
