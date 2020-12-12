@@ -79,6 +79,8 @@
 }
 .recom {
     position: absolute; left:50px;top:700px;
+    font-size: large;
+    font: bold;
 }
 
 .recommend {
