@@ -7,3 +7,27 @@
     position:absolute; left:0; top:510px;
     margin-left: auto;
 }
+
+.search {
+    background: #f7c750;
+}
+
+.search form {
+    background: #A3D0C3;
+}
+
+.search input, .search button{
+    background: transparent;
+}
+
+.search button{
+    top: 0px;
+    right: 0px;
+}
+
+.search button:before{
+    content: "\f002";
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    color:#F9F0DA;
+}
