@@ -19,7 +19,6 @@
 }
 
 .search input{
-    float: left;
     flex: 4;
     height: 30px;
     outline: none;
@@ -29,7 +28,6 @@
 }
 
 .search button{
-    float: right;
     flex: 1;
     height: 30px;
     background-color: red;
