@@ -91,6 +91,8 @@
 
 .recommend input{
     border: none;
+    outline: none;
+    top:100px;
     font-family: 'Times New Roman', Times, serif;
     font-size: 30px;
 }
