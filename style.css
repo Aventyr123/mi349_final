@@ -9,20 +9,21 @@
 }
 
 .search {
+    background: #F9F0DA;
     position:absolute; left:400px; top:510px;
-    width: 300px;
+    width: 200px;
     height: 50px;
 }
 
 .search form {
     background: #A3D0C3;
-    width: 300px;
+    width: 200px;
     height: 50px;
 }
 
 .search input, .search button{
     background: transparent;
-    width: 300px;
+    width: 200px;
     height: 50px;
 }
 
