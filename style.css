@@ -39,10 +39,11 @@
 }
 
 .button1 {
-    position: absolute; left:100px;top:550px;
+    position: absolute; left:1000px;top:550px;
     height: 35px;
     width: 35px;
     border: none;
-    outline-color: aqua;
+    outline: none;
     cursor: pointer;
+    color: aqua;
 }
