@@ -77,9 +77,12 @@
     cursor: pointer;
     background-color: rgb(142, 241, 128);
 }
+.recom {
+    position: absolute; left:50px;top:700px;
+}
 
 .recommend {
-    position: absolute; left:50px;top:700px;
+    position: absolute; left:50px;top:750px;
     border-style: solid;
     border-color: black;
 }
