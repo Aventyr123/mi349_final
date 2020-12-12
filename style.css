@@ -110,7 +110,8 @@
 }
 #pic3 {
     float: right;
-    size: 300px;
+    width: 100px;
+    height: 300px;
 }
 
 .recommend2 input{
