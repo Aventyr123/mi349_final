@@ -18,7 +18,7 @@
 .search form {
     background: #A3D0C3;
     width: 300px;
-    height: 500px;
+    height: 50px;
 }
 
 .search input, .search button{
@@ -29,7 +29,7 @@
     top: 0px;
     right: 0px;
     width: 300px;
-    height: 100px;
+    height: 50px;
 }
 
 .search button:before{
