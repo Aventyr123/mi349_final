@@ -11,11 +11,12 @@
 .search {
     background: #f7c750;
     position:absolute; left:400px; top:510px;
+    width: 300px;
+    height: 100px;
 }
 
 .search form {
     background: #A3D0C3;
-    size: 100px;
 }
 
 .search input, .search button{
