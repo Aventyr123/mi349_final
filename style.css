@@ -23,13 +23,14 @@
 
 .search input, .search button{
     background: transparent;
+    height: 50px;
 }
 
 .search button{
     top: 0px;
     right: 0px;
-    width: 50px;
-    height: 50px;
+    width: 30px;
+    height: 30px;
 }
 
 .search button:before{
