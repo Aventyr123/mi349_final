@@ -41,7 +41,7 @@
 .button1 {
     position: absolute; left:1000px;top:550px;
     height: 50px;
-    width: 50px;
+    width: 75px;
     border: none;
     outline: none;
     cursor: pointer;
@@ -49,9 +49,9 @@
 }
 
 .button2 {
-    position: absolute; left:1200px;top:550px;
+    position: absolute; left:1100px;top:550px;
     height: 50px;
-    width: 50px;
+    width: 75px;
     border: none;
     outline: none;
     cursor: pointer;
