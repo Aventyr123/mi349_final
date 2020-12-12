@@ -22,6 +22,8 @@
 
 .search input, .search button{
     background: transparent;
+    width: 300px;
+    height: 50px;
 }
 
 .search button{
