@@ -122,3 +122,17 @@
     font:bolder;
     font-size: 30px;
 }
+
+.help{
+    border: none;
+    outline: none;
+    cursor: pointer;
+    height: 100px;
+    width: 100px;
+    background-color: deeppink;
+    display: inline-block;
+    position: absolute;
+    position: fixed;
+    right:50px;
+    bottom: 50px;
+}
