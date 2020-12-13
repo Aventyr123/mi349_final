@@ -159,7 +159,8 @@
 }
 
 .sign{
-    position: absolute; left:500px;top:500px;
+    left: 50%;
+    top: 50%;
 }
 
 .signupbtn input{
