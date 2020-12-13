@@ -136,3 +136,10 @@
     right:50px;
     bottom: 50px;
 }
+
+.navi{
+    background: gainsboro;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 0;
+}
