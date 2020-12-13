@@ -158,8 +158,12 @@
     height: 300px;
 }
 
+.sign{
+    left: 50%;
+}
+
 .signupbtn input{
-    left:50%;
+    left: 50%;
     height: 50px;
     width: 150px;
 }
