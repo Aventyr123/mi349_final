@@ -150,6 +150,6 @@
 }
 
 #signup {
-    top: 500px;
+    float: bottom;
     background-color: pink;
 }
